@@ -1,9 +1,9 @@
 # 咻咻 · 小小桌宠
 
 <!-- download-button:start -->
-## 👉 [点击下载 Windows 安装包（EXE）](https://github.com/bendaidaidai/xiuxiu-desktop-releases/releases/download/v0.4.6/XiuXiu-0.4.6-x64-Setup.exe)
+## 👉 [点击下载 Windows 安装包（EXE）](https://github.com/bendaidaidai/xiuxiu-desktop-releases/releases/download/v0.4.8/XiuXiu-0.4.8-x64-Setup.exe)
 
-下载后双击 XiuXiu-0.4.6-x64-Setup.exe 安装。
+下载后双击 XiuXiu-0.4.8-x64-Setup.exe 安装。
 <!-- download-button:end -->
 
 紫发、圆框眼镜、抱着小羊的小桌宠。适用于 Windows 10/11 x64，离线养成无需账号、Node.js 或 API 密钥。
